@@ -5,7 +5,7 @@ Codes for generating results in the paper "Nowcasting time-varying effective rep
 In the data folder,  we have provided data of daily aggregate values (including confirm cases, true $R_t$ and $R_{t}^{k}$, meterological predictors and policy indices predictors).
 
 ## generate_rt
-Contains codes for generate $R_t$ and $R_{t}^{k}$.
+Contains codes for generate $R_t$ and temporal $R_{t}^{k}$.
 
 ## run_model
 Contains codes for running models.
@@ -25,7 +25,7 @@ We conducted simulation with synthetic data based on Gostic, Katelyn M., et al. 
 * 02-simulate - generate Rt from report-shift, RIDE and BP method.
 * 03-sim-censored - generate Rt from censored data.
 
-[Operated under R version 4.2.3 (R Development Core Team, 2021)]
-
 ## figure_script
 Contains codes for generating main Figure 1-5 and Supplementary Figure s1-s9.
+
+[Operated under R version 4.2.3 (R Development Core Team, 2021)]
