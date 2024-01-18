@@ -1,5 +1,5 @@
 
-# data
+# Data
 This README file contains detailed explanations for each column in the dataset.
 
 * data_all_Dec 
@@ -25,4 +25,4 @@ This README file contains detailed explanations for each column in the dataset.
   - rt_temp_RIDE - Effective reproductive number at 'date' estimated with data up to 'date_analysis' using RIDE method.
   
 * bp_rt
-  - rt_temp_BP - Effective reproductive number at 'date' estimated with data up to 'date_analysis' using RIDE method.
+  - rt_temp_BP - Effective reproductive number at 'date' estimated with data up to 'date_analysis' using BP method.
