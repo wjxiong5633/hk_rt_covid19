@@ -19,7 +19,7 @@ This README file contains detailed explanations for each column in the dataset.
 * data_rt_cov_all 
   - true_rt - $R_t$ effective reproductive number at 'date' t estimated with data of the whole study period.
   - temp_rt - $R_t^t$ effective reproductive number at 'date' t estimated with data up to 'date' t.
-  - rt_temp_past_m - $R_{t-m}^{t}$ effective reproductive number at past m day estimated with data up to 'date' t. 
+  - rt_temp_past_m - $R_{t-m}^{t}$ effective reproductive number at past time ('date'- m) estimated with data up to 'date' t. 
 
 * ride_rt
   - rt_temp_RIDE - Effective reproductive number at 'date' estimated with data up to 'date_analysis' using RIDE method.
