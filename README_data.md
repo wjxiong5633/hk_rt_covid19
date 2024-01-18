@@ -16,7 +16,7 @@
   
   
 * data_rt_cov_all 
-  - true_rt - $R_t$
-  - temp_rt - $R_t^t$
-  - rt_temp_past_k - $R_t_t-k$
+  - true_rt - $R_t$ Effective reproductive number at day t estimated with data of the whole study period.
+  - temp_rt - $R_t^t$ Effective reproductive number at day t estimated with data up to day t.
+  - rt_temp_past_m - $R_{t-m}^{t}$ Effective reproductive number at past m day estimated with data up to day t. 
 
