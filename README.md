@@ -2,7 +2,7 @@
 Codes for generating results in the paper "Nowcasting time-varying effective reproductive number of COVID-19 in Hong Kong".
 
 ## data
-In the data folder,  we have provided data of daily aggregate values (including confirm cases, true $R_t$ and $R_{t}^{k}$, meterological predictors and policy indices predictors).
+In the data folder,  we have provided data of daily aggregate values (including confirm cases, true $R_t$ and $R_{t}^{k}$, meterological predictors and policy indices predictors). See details in **README_data.md**.
 
 ## generate_rt
 Contains codes for generate $R_t$ and temporal $R_{t}^{k}$.
