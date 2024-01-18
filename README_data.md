@@ -1,6 +1,6 @@
 
 # data
-This README is the explanation of each column of the dataset.
+This README file contains detailed explanations for each column in the dataset.
 
 * data_all_Dec 
   - date
