@@ -10,7 +10,7 @@ Contains codes for generate $R_t$ and temporal $R_{t}^{k}$.
 ## run_model
 Contains codes for running models.
 * 1_Omicron - training and testing on Omicron variant data (wave 5 and wave 6).
-* 2_ancestral_strain  explore robustness, testing on ancestral strain data (wave 4).
+* 2_ancestral_strain - explore the robustness, testing on ancestral strain data (wave 4).
 
 ## model_res
 Contains results for running models.
