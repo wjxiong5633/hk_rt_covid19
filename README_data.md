@@ -5,7 +5,7 @@ This README file contains detailed explanations for each column in the dataset.
 * data_all_Dec 
   - date
   - region
-  - date_analysis - date of analysis
+  - date_analysis - Date of analysis
   - confirm - PCR-confirmed COVID-19 cases in Hong Kong
   - temperature (°C)
   - humidity - Relative humidity (%)
