@@ -8,7 +8,7 @@ library(e1071)
 library(mgcv)
 library(pROC)
 library(Rcpp)
-file.sources = list.files( c("./functions","./models"),
+file.sources = list.files( c("./functions","./run_model/models"),
                            pattern="*.R$", 
                            full.names=TRUE, 
                            ignore.case=TRUE)
