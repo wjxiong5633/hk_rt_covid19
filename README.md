@@ -22,8 +22,8 @@ Contains codes and tidy results for tables and figures.
 We conducted simulation with synthetic data based on Gostic, Katelyn M., et al. "Practical considerations for measuring the effective reproductive number, Rt." PLoS computational biology 16.12 (2020): e1008409. https://doi.org/10.1371/journal.pcbi.1008409
 
 * 01-simulate-data - simulate synthetic data
-* 02-simulate - generate Rt from report-shift, RIDE and BP method.
-* 03-sim-censored - generate Rt from censored data.
+* 02-simulate - generate $R_t$ from report-shift, RIDE and BP method.
+* 03-sim-censored - generate $R_t$ from censored data.
 
 ## figure_script
 Contains codes for generating main Figure 1-5 and Supplementary Figure s1-s9.
